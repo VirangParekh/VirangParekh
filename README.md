@@ -33,3 +33,9 @@ I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/m
 [![Reverse Image Detection](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Reverse-Image-Detection&theme=merko&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Githib React Finder](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Github-Finder-React&show_owner=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirangParekh&langs_count=8&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## [Virang Parekh Resume (Short).pdf](https://github.com/VirangParekh/VirangParekh/files/6249715/Virang.Parekh.Resume.Short.pdf)
+
+## [Virang Parekh CV (Long).pdf](https://github.com/VirangParekh/VirangParekh/files/6249718/Virang.Parekh.CV.Long.pdf)
+
