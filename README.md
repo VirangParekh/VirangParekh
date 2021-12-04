@@ -1,6 +1,6 @@
 # Hey there! This is a very cool place, okay. <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/wave.gif" width="30px">
 
-My name is **Virang** and I'm a **Computer Engineering Junior** at [Dwarkadas J. Sanghvi College of Engineering](https://djsce.ac.in/). <br>
+My name is **Virang** and I'm a **Computer Engineering Senior** at [Dwarkadas J. Sanghvi College of Engineering](https://djsce.ac.in/). <br>
 I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/inidan-flag.png" witdth="15px" height="15px"> 🇮🇳, located in Pune, Mumbai and Kolkata. <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact:
@@ -10,9 +10,9 @@ I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/m
 
 ## What's up with me?
 - 🔭 I’m currently working on: <br>
-  Automated Rotoscoping, Astronomical Image Subtraction, Algorithmic Game Thoery, Mathematics for Computer Science in an Indian Context and a few other full stack projects
+  RSA, ECC, Rabin and a few other crpytosystems, Detection of Microexpressions, Machine Learning on audio Data, Augmented Reality & computational geometry and a few other full stack projects
 - 🌱 I’m currently learning about: <br>
-  Generative Adversial Networks, Capsule Neural Networks 🕸️, Discrete Mathematics 🧮, Graph Theory 📊
+  Emotional Quotient, Processing Audio data using openSMILE, neural networks 🕸️, Discrete Mathematics 🧮
 - 👯 I’m looking to collaborate on domains <br>
   Discrete Mathematics, Combinatorics, Geoinformatics Systems, Formal Methods in a Software Engineering Context
 - 🤔 I’m looking for help with: <br>
@@ -32,6 +32,8 @@ I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/m
 [![Pitch Desktop App](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Pitch-Desktop-App&theme=merko&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Reverse Image Detection](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Reverse-Image-Detection&theme=merko&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Githib React Finder](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Github-Finder-React&show_owner=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![A research in public-key cryptosystems](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Rabin-Research&show_owner=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![EQ Analysis using Audio Visual Data](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Automated-EQ&show_owner=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirangParekh&langs_count=8&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
