@@ -22,7 +22,7 @@ I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/m
 
 
 ## 📫 Let's connect and get in touch:    
-   ![Twitter](http://i.imgur.com/wWzX9uB.png) : [/scoietyuncle](https://twitter.com/societyuncle) </br>
+<!--    ![Twitter](http://i.imgur.com/wWzX9uB.png) : [/scoietyuncle](https://twitter.com/societyuncle) </br> -->
    ![LinkedIn](https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/linkedin-3-16.png ) : [/virang-parekh](https://www.linkedin.com/in/virang-parekh/) </br>
    📧 : virangparekh73@gmail.com </br>
    
