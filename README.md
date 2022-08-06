@@ -1,7 +1,7 @@
 # Hey there! This is a very cool place, okay. <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/wave.gif" width="30px">
 
-My name is **Virang** and I'm a **Computer Engineering Senior** at [Dwarkadas J. Sanghvi College of Engineering](https://djsce.ac.in/). <br>
-I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/inidan-flag.png" witdth="15px" height="15px"> 🇮🇳, located in Pune, Mumbai and Kolkata. <br>
+My name is **Virang** and I'm a **Research and Development Engineer** at [Samsung R&D Institute - Noida]([https://research.samsung.com/sri-n]). <br>
+I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/inidan-flag.png" witdth="15px" height="15px"> 🇮🇳, located in Pune, Delhi-NCR and Kolkata. <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact:
   - I'm a Gujju who doesn't like Khakhras (but I do like Dhoklas)
@@ -10,7 +10,9 @@ I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/m
 
 ## What's up with me?
 - 🔭 I’m currently working on: <br>
-  RSA, ECC, Rabin and a few other crpytosystems, Detection of Microexpressions, Machine Learning on audio Data, Augmented Reality & computational geometry and a few other full stack projects
+  Smart Watches, Wearable Experiences and Researching on Health & Fitness Management Systems and a frew Android-Kotlin Projects
+- 🔬 I've Researched and worked on: <br>
+  RSA, ECC, Rabin and a few other crpytosystems, Detection of Microexpressions, Machine Learning on audio Data
 - 🌱 I’m currently learning about: <br>
   Emotional Quotient, Processing Audio data using openSMILE, neural networks 🕸️, Discrete Mathematics 🧮
 - 👯 I’m looking to collaborate on domains <br>
