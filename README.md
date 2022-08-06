@@ -1,6 +1,6 @@
 # Hey there! This is a very cool place, okay. <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/wave.gif" width="30px">
 
-My name is **Virang** and I'm a **Research and Development Engineer** at [Samsung R&D Institute - Noida]([https://research.samsung.com/sri-n]). <br>
+My name is **Virang** and I'm a **Research and Development Engineer** at [Samsung R&D Institute - Noida](https://research.samsung.com/sri-n). <br>
 I'm from <img src="https://raw.githubusercontent.com/VirangParekh/VirangParekh/main/inidan-flag.png" witdth="15px" height="15px"> 🇮🇳, located in Pune, Delhi-NCR and Kolkata. <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact:
