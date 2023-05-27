@@ -27,13 +27,14 @@ I'm from India <img src="https://raw.githubusercontent.com/VirangParekh/VirangPa
    
 ## Github Stats or Stonks?? <img src="https://user-images.githubusercontent.com/44228173/113404017-2267cb00-93c5-11eb-93fe-29c85cc6089d.png" width="50px" height="50px">
 
-[![Virang's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirangParekh&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirangParekh&langs_count=8&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Pitch Desktop App](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Pitch-Desktop-App&theme=merko&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Reverse Image Detection](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Reverse-Image-Detection&theme=merko&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Githib React Finder](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Github-Finder-React&show_owner=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![A research in public-key cryptosystems](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Rabin-Research&show_owner=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Virang's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirangParekh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirangParekh&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Pitch Desktop App](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Pitch-Desktop-App&theme=tokyonight&show_owner=true&layoit=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Reverse Image Detection](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&show_icons=true&repo=Reverse-Image-Detection&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Finder React](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Github-Finder-React&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![A research in public-key cryptosystems](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Rabin-Research&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Automated EQ](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=Automated-EQ&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Money Manager](https://github-readme-stats.vercel.app/api/pin/?username=VirangParekh&repo=CloudProject&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## [Virang Parekh Resume (Short).pdf](https://github.com/VirangParekh/VirangParekh/files/6249715/Virang.Parekh.Resume.Short.pdf)
